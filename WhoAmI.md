@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Hello World!
-tagline: It'a-me, Marco!
+title : Who am I / Bio
+header : Who am I
+group: navigation
 ---
 
 Hi folks! My name is Marco Previtali and I am a student at
@@ -23,11 +24,3 @@ problems in a smart way.
 You can find me on [github](http://mpre.github.com), on
 [twitter](http://twitter.com/redstripedcat) or you can send me an email at
 exprex [INSERTATSYMBOLHERE] gmail com.
-
-## Post list:
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
