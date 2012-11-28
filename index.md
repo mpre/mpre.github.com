@@ -20,9 +20,7 @@ Algorithms and models (AI, Complex Systems, bioinformatics, soft computing).
 As I stated before, I am mainly interested in methods used to solve _hard_
 problems in a smart way.
 
-You can find me on [github](http://mpre.github.com), on
-[twitter](http://twitter.com/redstripedcat) or you can send me an email at
-exprex [INSERTATSYMBOLHERE] gmail com.
+You can find my contacts [here](http://mpre.github.com/WhoAmI.html).
 
 ## Post list:
 
