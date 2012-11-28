@@ -1,26 +1,13 @@
 ---
 layout: page
-title : Who am I / Bio
-header : Who am I
+title : Contacts
+header : Contacts
 group: navigation
 ---
 
-Hi folks! My name is Marco Previtali and I am a student at
-[Università degli studi di Milano-Bicocca](http://www.disco.unimib.it) currently
-pursuing my Master degree in computer science.
+You can contact me by email at exprex [ATSYMBOL] gmail [DOTSYM] com or
+you can find me at:
 
-I am currently working on my thesis which title is "Algoritmi per la predizione
-di eventi di splicing alternativo da dati NGS" (*Algorithms for predicting
-alternative splicing's events on NGS data*).  My favourite field of CS are
-algorithm design, bioinformatics and AI and my accademic career as a student
-includes various class ranging from computer architecture to soft computing. My
-Post-graduate course was mainly focused on software development (Test &
-Analysis, development process such as agile methodology and so on) and
-Algorithms and models (AI, Complex Systems, bioinformatics, soft computing).
-
-As I stated before, I am mainly interested in methods used to solve _hard_
-problems in a smart way.
-
-You can find me on [github](http://mpre.github.com), on
-[twitter](http://twitter.com/redstripedcat) or you can send me an email at
-exprex [INSERTATSYMBOLHERE] gmail com.
++ [Twitter](http://twitter.com/redstripedcat)
++ [Soup.io](http://redstripedcat.soup.io)
++ [Github](http://github.com/mpre)
