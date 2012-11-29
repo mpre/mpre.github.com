@@ -10,11 +10,11 @@ pursuing my Master degree in computer science.
 
 I am currently working on my thesis which title is "Algoritmi per la predizione
 di eventi di splicing alternativo da dati NGS" (*Algorithms for predicting
-alternative splicing's events on NGS data*).  My favourite field of CS are
+alternative splicing's events on NGS data*).  My favourite fields of CS are
 algorithm design, bioinformatics and AI and my accademic career as a student
 includes various class ranging from computer architecture to soft computing. My
 Post-graduate course was mainly focused on software development (Test &
-Analysis, development process such as agile methodology and so on) and
+Analysis, development process such as agile methodology and so on),
 Algorithms and models (AI, Complex Systems, bioinformatics, soft computing).
 
 As I stated before, I am mainly interested in methods used to solve _hard_
