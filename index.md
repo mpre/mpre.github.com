@@ -9,7 +9,7 @@ Department  of   Computer  Science   (DISCo)  at  the   University  of
 Milan-Bicocca.
 
 I'm   mostly  interested   in   bioinformatics   and  I'm   developing
-[https://github.com/AlgoLab/LightStringGraph](LighStringGraph).
+[LightStringGraph](https://github.com/AlgoLab/LightStringGraph).
 
 You can find my contacts [here](http://mpre.github.io/WhoAmI.html).
 
